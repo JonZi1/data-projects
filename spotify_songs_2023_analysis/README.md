@@ -26,7 +26,8 @@
 - liveness_%: Presence of live performance elements
 - speechiness_%: Amount of spoken words in the song
 
-- Possible plans:
+
+Possible plans:
 1. Basic Data Exploration:
 Check for missing values and data types.
 Obtain descriptive statistics for continuous variables.
