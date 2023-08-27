@@ -1,6 +1,6 @@
 - File source: https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023?resource=download
 
-- features: 
+- Features: 
 - track_name: Name of the song
 - artist(s)_name: Name of the artist(s) of the song
 - artist_count: Number of artists contributing to the song
